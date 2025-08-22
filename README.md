@@ -1,7 +1,7 @@
-# Post-Attack Network Session Analysis of PCAP Files using NeSA
+# Post-Attack Network Session Analysis of PCAP Files using Wireshark 
 
 ## 📁 Project Overview
-This project focuses on performing **network forensic analysis** on a captured `.pcap` file using **CDAC’s NeSA (Network Session Analyser)**. It simulates a post-attack investigation in a Windows Active Directory environment to uncover attacker behavior and extract key Indicators of Compromise (IoCs).
+This project focuses on performing **network forensic analysis** on a captured `.pcap` file using **Wireshark**. It simulates a post-attack investigation in a Windows Active Directory environment to uncover attacker behavior and extract key Indicators of Compromise (IoCs).
 
 ## 🎯 Objective
 To analyze malicious network traffic after a simulated cyber attack using NeSA and Wireshark, identify the infected client, and understand attacker activity.
